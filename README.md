@@ -12,5 +12,5 @@ The code project contains several folders:
 - **FWLIB：** STM32 F1 series' favor library,providing APIs for each peripheral.
 - **SYSTEM：** Files and functions for system including main function.
  
-Before compiling,please make sure  that you've included all source files in **CORE, HARDWARE, SYSTEM** and all necessary files in **HARDWARE** to the project and included all head file paths inside.
+Before compiling,please make sure  that you've included all source files in **CORE, HARDWARE, SYSTEM** and all necessary files in **FWLIB** to the project and included all head file paths inside.
 Hope you have fun!
