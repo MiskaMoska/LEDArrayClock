@@ -1,7 +1,7 @@
 # 1 Introduction
 The software code of a little LED array clock,which is designed based on STM32 F1 series MCU. Some pictures are provided to show the outlook of the clock and corresponding design documents are provided to give more information about the structure and PCB of the clock. 
 
-**Click [here](https://pan.baidu.com/s/1aZvg27yC6-ILFsCilPI19w) to get the PCB project,extraction code j5gw**
+**Click [here](https://pan.baidu.com/s/1aZvg27yC6-ILFsCilPI19w) to get the PCB project,extraction code `j5gw`**
 
 **Click [here](https://www.bilibili.com/video/BV1YA411E7dm) to see a brief video of the clock**
 # 2 Functions
