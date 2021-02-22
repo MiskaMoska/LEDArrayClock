@@ -4,6 +4,11 @@ The software code of a little LED array clock,which is designed based on STM32 F
 **Click [here](https://pan.baidu.com/s/1aZvg27yC6-ILFsCilPI19w) to get the PCB project,extraction code `j5gw`**
 
 **Click [here](https://www.bilibili.com/video/BV1YA411E7dm) to see a brief video of the clock**
+
+![img1](https://github.com/MiskaMoska/LEDArrayClock/img1.png)
+
+![img2](https://github.com/MiskaMoska/LEDArrayClock/img2.png)
+
 # 2 Functions
 - **Time Display：**	The clock can display the time in real time by minute,which won't be interrupted when power off.
 - **Time Setting：**  By pressing the key on the PCB,user can set every digit of the time independently.
@@ -15,6 +20,6 @@ The code project contains several folders:
 - **HARDWARE：** Files for each peripheral,in which user functions and variables are defined and declared.
 - **FWLIB：** STM32 F1 series' favor library,providing APIs for each peripheral.
 - **SYSTEM：** Files and functions for system including main function.
- 
+
 Before compiling,please make sure  that you've included all source files in **CORE, HARDWARE, SYSTEM** and all necessary files in **FWLIB** to the project and included all head file paths inside.
 Hope you have fun!
