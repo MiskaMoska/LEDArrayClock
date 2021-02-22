@@ -5,9 +5,9 @@ The software code of a little LED array clock,which is designed based on STM32 F
 
 **Click [here](https://www.bilibili.com/video/BV1YA411E7dm) to see a brief video of the clock**
 
-![img1](https://github.com/MiskaMoska/LEDArrayClock/img1.png)
+![img1](https://github.com/MiskaMoska/LEDArrayClock/blob/main/img1.png)
 
-![img2](https://github.com/MiskaMoska/LEDArrayClock/img2.png)
+![img2](https://github.com/MiskaMoska/LEDArrayClock/blob/main/img2.png)
 
 # 2 Functions
 - **Time Display：**	The clock can display the time in real time by minute,which won't be interrupted when power off.
