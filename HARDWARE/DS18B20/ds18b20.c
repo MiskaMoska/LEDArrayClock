@@ -1,8 +1,6 @@
 #include "ds18b20.h"
 #include "delay.h"	
 
-  
-
 //¸´Î»DS18B20
 void DS18B20_Rst(void)	   
 {                 

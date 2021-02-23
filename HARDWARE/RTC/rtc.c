@@ -2,11 +2,7 @@
 #include "delay.h"
 #include "usart.h"
 #include "rtc.h" 		    
-//Mini STM32开发板
-//RTC实时时钟 驱动代码			 
-//正点原子@ALIENTEK
-//2010/6/6
-	   
+
 _calendar_obj calendar;//时钟结构体 
  
 static void RTC_NVIC_Config(void)

@@ -1,9 +1,5 @@
 #ifndef __RTC_H
 #define __RTC_H	    
-//Mini STM32开发板
-//RTC实时时钟 驱动代码			 
-//正点原子@ALIENTEK
-//2010/6/6
 
 //时间结构体
 typedef struct 
