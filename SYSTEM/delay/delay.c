@@ -69,7 +69,7 @@ void delay_ostimedly(u32 ticks)
 	OSTimeDly(ticks);							//UCOSII延时
 #endif 
 }
- 
+
 //systick中断服务函数,使用ucos时用到
 void SysTick_Handler(void)
 {	
@@ -82,7 +82,6 @@ void SysTick_Handler(void)
 }
 #endif
 
-			   
 //初始化延迟函数
 //当使用OS的时候,此函数会初始化OS的时钟节拍
 //SYSTICK的时钟固定为HCLK时钟的1/8
